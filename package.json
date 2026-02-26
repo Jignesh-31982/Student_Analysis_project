@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/react-router-dom": "^5.3.3",
+    "autoprefixer": "^10.4.27",
+    "lucide-react": "^0.575.0",
+    "postcss": "^8.5.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.1",
+    "react-scripts": "^5.0.1",
+    "recharts": "^3.7.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "name": "student-performance-analytics-system2",
+  "version": "1.0.0",
+  "description": "A comprehensive web application for analyzing student performance data, generating reports, and providing actionable insights to enhance student learning outcomes.",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
