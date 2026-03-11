@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/student-performence-analysis/static/css/main.13bf7c7e.css",
-    "main.js": "/student-performence-analysis/static/js/main.35b83cc5.js",
-    "index.html": "/student-performence-analysis/index.html",
-    "main.13bf7c7e.css.map": "/student-performence-analysis/static/css/main.13bf7c7e.css.map",
-    "main.35b83cc5.js.map": "/student-performence-analysis/static/js/main.35b83cc5.js.map"
+    "main.css": "/Student_Analysis_project/static/css/main.13bf7c7e.css",
+    "main.js": "/Student_Analysis_project/static/js/main.35b83cc5.js",
+    "index.html": "/Student_Analysis_project/index.html",
+    "main.13bf7c7e.css.map": "/Student_Analysis_project/static/css/main.13bf7c7e.css.map",
+    "main.35b83cc5.js.map": "/Student_Analysis_project/static/js/main.35b83cc5.js.map"
   },
   "entrypoints": [
     "static/css/main.13bf7c7e.css",
